@@ -1,52 +1,98 @@
-slogan: "Yet another bootstrap theme."
+slogan: "From bits & gates to C and beyond."
 
 theme: cerulean
 inverse: true
 
 menu:
-  - title: Archives
+  - title: About
+    url: whoami
+    intro: "About me."
+    icon: "fa fa-user"
+  - title: Research
+    url: projects
+    intro: "Research projects."
+    icon: "fa fa-folder"
+  - title: Articles
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
-  - title: Categories
-    url: categories
-    intro: "All the categories."
-    icon: "fa fa-folder"
-  - title: Tags
-    url: tags
-    intro: "All the tags."
-    icon: "fa fa-tags"
-  - title: About
-    url: about
-    intro: "About me."
-    icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
-  - title: "My Github"
-    url: http://www.github.com/wzpan
-    intro: "My Github account."
-    icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
-    intro: "My Linkin account."
-    icon: "fa fa-linkedin"
+  - title: 负一的平方根
+    url: https://zhengzihan.com/
+    icon: "fa fa-user"
+  - title: 机智的超立方体
+    url: https://0x01.me/
+    icon: "fa fa-user"
+  - title: 墨干编辑器
+    url: https://github.com/XmacsLabs/mogan/blob/main/README_ZH.md
+    icon: "fa fa-edit"
+  - title: Belleve Invis
+    url: https://typeof.net/
+    icon: "fa fa-user"
+  - title: Darcy Shen
+    url: https://github.com/darcy-shen
+    icon: "fa fa-user"
+  - title: ewind
+    url: http://ewind.us/
+    icon: "fa fa-user"
+  - title: Miaomiao Li
+    url: https://moeka.me/
+    icon: "fa fa-user"
+  - title: Pengfei Zuo
+    url: http://pfzuo.github.io/homepage/
+    icon: "fa fa-user"
+  - title: PI Review 导师评价网
+    url: https://pi-review.com/
+    icon: "fa fa-pencil-square"
+  - title: Renqian Luo
+    url: http://home.ustc.edu.cn/~lrq/
+    icon: "fa fa-user"
+  - title: Si-Yuan Zhuang
+    url: https://suquark.github.io/
+    icon: "fa fa-user"
+  - title: Tianyi Cui
+    url: https://blog.ctyi.me/
+    icon: "fa fa-user"
+  - title: USTC 评课社区
+    url: https://icourse.club/
+    icon: "fa fa-pencil-square"
+  - title: ustc.life
+    url: http://ustc.life/
+    icon: "fa fa-external-link"
+  - title: Weikeng Chen
+    url: https://www.chenweikeng.com/
+    icon: "fa fa-user"
+  - title: Wencong Xiao
+    url: https://wencongxiao.github.io/
+    icon: "fa fa-user"
+  - title: Yifan Gao
+    url: https://blog.yfgao.com/
+    icon: "fa fa-user"
+  - title: Yuanwei Lu
+    url: https://will-lu666.github.io/
+    icon: "fa fa-user"
+  - title: Yunhe Wang
+    url: https://www.wangyunhe.site/
+    icon: "fa fa-user"
+  - title: Zhen Chang (Aaron)
+    url: https://zmyth.me/
+    icon: "fa fa-user"
+  - title: Zhenyuan Ruan
+    url: http://vast.cs.ucla.edu/people/student/zhenyuan-ruan
+    icon: "fa fa-user"
 
 widgets:
 - search
-- recent_comments
-- category
-- tagcloud
-- recent_posts
 - links
+- tagcloud
+#- recent_posts
+#- recent_comments
 
 rss:
 fancybox: true
 favicon: favicon.png
-duoshuo_shortname: #freemindtheme
+#duoshuo_shortname: #freemindtheme
 
 # Recommended posts
 # Dependency: https://github.com/huiwang/hexo-recommended-posts
@@ -65,14 +111,9 @@ baidu_tongji:
 # swiftype_key: ZP2ZSuHgipSZfRyU8uTR
 
 # share widgets
-bdshare: true
+bdshare: false
 jiathis: false
 
 # built-in comment system
 comment_js:
   type: "github"
-  user: "wzpan"
-  repo: "hexo-theme-freemind-blog"
-  client_id: "bf7d4ba11877db88543e"
-  client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb"
-  count: 5
