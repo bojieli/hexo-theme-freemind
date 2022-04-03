@@ -60,10 +60,11 @@
   <script src="<%- config.root %>js/jquery-2.0.3.min.js"></script>
   <% if (theme.comment_js) { %>
     <script src="<%- config.root %>js/marked.js"></script>
-    <script src="<%- config.root %>js/comment.js"></script>
     <script src="<%- config.root %>js/timeago.min.js"></script>
     <script src="<%- config.root %>js/highlight.min.js"></script>
-	<script src="<%- config.root %>js/spin.min.js"></script>
+    <script src="<%- config.root %>js/spin.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
   <% } %>
   <!-- analytics -->
   <%- partial('post/analytics') %>
