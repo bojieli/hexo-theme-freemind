@@ -89,7 +89,7 @@ widgets:
 #- recent_posts
 #- recent_comments
 
-rss:
+rss: atom.xml
 fancybox: true
 favicon: favicon.png
 #duoshuo_shortname: #freemindtheme
