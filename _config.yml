@@ -12,7 +12,7 @@ menu:
     url: projects
     intro: "Research projects."
     icon: "fa fa-folder"
-  - title: Articles
+  - title: Archives
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
