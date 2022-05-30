@@ -27,6 +27,9 @@ links:
   - title: 墨干编辑器
     url: https://github.com/XmacsLabs/mogan/blob/main/README_ZH.md
     icon: "fa fa-edit"
+  - title: ACM ChinaSys
+    url: https://chinasys.org/doku.php?id=officers
+    icon: "fa fa-external-link"
   - title: Belleve Invis
     url: https://typeof.net/
     icon: "fa fa-user"
