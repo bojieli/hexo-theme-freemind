@@ -30,7 +30,7 @@
 
 	<!-- toc -->
 	<div class="meta-widget">
-	<% if(item.toc){ %>
+	<% if(!item.notoc){ %>
 	   <a data-toggle="collapse" data-target="#toc"><i class="fa fa-bars"></i></a>
 	   <div id="toc" class="toc collapse in">
 			<%- toc(item.content, {class: "toc-article", list_number:false}) %>
