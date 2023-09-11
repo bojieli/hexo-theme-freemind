@@ -20,15 +20,6 @@ menu:
     icon: "fa fa-archive"
 
 links:
-  - title: 负一的平方根
-    url: https://sqrt-1.me/
-    icon: "fa fa-user"
-  - title: 机智的超立方体
-    url: https://0x01.me/
-    icon: "fa fa-user"
-  - title: 墨干编辑器
-    url: https://github.com/XmacsLabs/mogan/blob/main/README_ZH.md
-    icon: "fa fa-edit"
   - title: ACM ChinaSys
     url: https://chinasys.org/doku.php?id=officers
     icon: "fa fa-external-link"
@@ -44,6 +35,9 @@ links:
   - title: Miaomiao Li
     url: https://moeka.me/
     icon: "fa fa-user"
+  - title: Mogan Editor
+    url: https://github.com/XmacsLabs/mogan/blob/main/README_ZH.md
+    icon: "fa fa-edit"
   - title: Pengfei Zuo
     url: http://pfzuo.github.io/homepage/
     icon: "fa fa-user"
@@ -52,6 +46,12 @@ links:
     icon: "fa fa-user"
   - title: Si-Yuan Zhuang
     url: https://suquark.github.io/
+    icon: "fa fa-user"
+  - title: Smart Hypercube
+    url: https://0x01.me/
+    icon: "fa fa-user"
+  - title: Sqrt(-1)
+    url: https://sqrt-1.me/
     icon: "fa fa-user"
   - title: Tianyi Cui
     url: https://blog.ctyi.me/
