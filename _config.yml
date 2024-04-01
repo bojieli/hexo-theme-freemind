@@ -18,6 +18,10 @@ menu:
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
+  - title: Chinese
+    url: https://01.me/
+    intro: "Chinese version."
+    icon: "fa fa-globe"
 
 links:
   - title: ACM ChinaSys
