@@ -18,6 +18,10 @@ menu:
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
+  - title: English
+    url: en
+    intro: "English version."
+    icon: "fa fa-globe"
 
 links:
   - title: 负一的平方根
