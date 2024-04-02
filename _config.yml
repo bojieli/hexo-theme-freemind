@@ -18,7 +18,7 @@ menu:
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
-  - title: Chinese
+  - title: 中文
     url: https://01.me/
     intro: "Chinese version."
     icon: "fa fa-globe"
