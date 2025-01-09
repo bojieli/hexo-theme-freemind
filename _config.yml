@@ -36,6 +36,12 @@ links:
   - title: doodlewind
     url: https://github.com/doodlewind
     icon: "fa fa-user"
+  - title: iCourses (Course Rating Platform)
+    url: https://icourses.com/
+    icon: "fa fa-pencil-square"
+  - title: Jenny Zhang
+    url: https://jenny42.com/
+    icon: "fa fa-user"
   - title: Keyu Tao
     url: https://www.taoky.moe/
     icon: "fa fa-user"
