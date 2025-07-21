@@ -102,8 +102,9 @@ links:
 
 widgets:
 - search
+- mastodon
 - links
-- tagcloud
+#- tagcloud
 #- recent_posts
 #- recent_comments
 

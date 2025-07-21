@@ -13,6 +13,7 @@ recent_posts: "Recent Posts"
 description: Description
 read_more: "Read More"
 links: Links
+mastodon: Mastodon
 top: Pin
 no_comment: "No comments yet. Press the button and go to comment now!"
 go_to_comment: "Go to comment"
