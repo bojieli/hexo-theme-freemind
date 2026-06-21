@@ -11,7 +11,7 @@ menu:
     intro: "About me."
     icon: "fa fa-user"
   - title: Research
-    url: projects
+    url: research
     intro: "Research projects."
     icon: "fa fa-folder"
   - title: Archives
